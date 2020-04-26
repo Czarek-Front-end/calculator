@@ -25,7 +25,7 @@ body {
     background-color: #fff;
     width: 320px;
     border-radius: 20px;
-    box-shadow: 4px 0 100px rgb(15, 165, 240, .2);
+    box-shadow: 4px 0 100px rgb(0,0,0, .1);
 }
 
 .row {
