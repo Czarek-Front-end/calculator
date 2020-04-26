@@ -45,7 +45,7 @@ body {
 }
 
 
-.calc-button-operator {
+.button-operator {
     background-color: #ECF0FD;
 }
 
@@ -53,7 +53,7 @@ body {
     display: table-cell;
 }
 
-#calc-screen-display {
+#screen-display {
     padding: 5rem 0;
     border-bottom: 1px solid rgb(0,0,0, .1);
     font-size: 5rem;
